@@ -7,6 +7,10 @@ This SPA contains list of books that can be added into the cart and one can logi
 
 https://booklist-9f13c.web.app/
 
+![image](https://user-images.githubusercontent.com/72390027/230132843-ac3f6b4b-0bdb-4c26-9f13-bb4dbe26fb17.png)
+![image](https://user-images.githubusercontent.com/72390027/230132860-6a6f3a84-0c25-48d2-bf04-111d05984832.png)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
