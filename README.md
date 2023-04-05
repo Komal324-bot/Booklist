@@ -1,6 +1,11 @@
-# MyApp
+# MyApp-Booklist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+This SPA contains list of books that can be added into the cart and one can login and register through credentials.
+
+#Live link 
+
+https://booklist-9f13c.web.app/
 
 ## Development server
 
